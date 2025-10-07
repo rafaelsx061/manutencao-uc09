@@ -28,3 +28,24 @@ Nesta atividade, trabalhei com **controle de versão utilizando Git e GitHub**, 
 ---
 
 > Atividade concluída com sucesso. Todas as alterações foram aplicadas, testadas e comentadas para fácil entendimento e rastreabilidade.
+
+Python:
+#Troquei por um numero que é divisivor de 10
+#Troquei o nome (nome_usuar) por (nome_usuario)
+ #Coloquei as aspas duplas na palavra maçã
+
+Web: 
+fechei o html com >
+coloquei ; e terminei a função de color que estava faltando
+tirei o bug
+
+Kivy:
+#Arrumei a importação do app, que estava Ap e não App
+#Arrumei o App
+adcionei os dois pontos 
+Returnei o botao e tirei  o ".run()"
+
+Django:
+#importei o views em aplicacao
+adcionei essa path de outra_view
+criei uma nova def que aparece "Bem vindo, essa é a outa view!"
