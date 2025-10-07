@@ -16,10 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from aplicacao import views
+from aplicacao import views #importei o views em aplicacao
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('saudacao/',views.saudacao),
-    path('outra_view/', views.outra_view)
+    path('outra_view/', views.outra_view) #adcionei essa path de outra_view
 ]

@@ -1,6 +1,6 @@
 titulo {
     font-size: 24px;
-    color: blue;
+    color: blue; /* coloquei ; e terminei a função de color que estava faltando */
     background-color: yellow;
     padding: 10px;
     border: 1px solid black;
